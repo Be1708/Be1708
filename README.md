@@ -1,4 +1,4 @@
-# Bernardo Bernardi
+# Bernardo Breier Bernardi
 
 **`Técnico em Automação Industrial`**
 
