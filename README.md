@@ -81,6 +81,14 @@ Me chamo Bernardo Breier Bernardi, tenho 17 anos e moro em Gravataí no Rio Gran
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" 
 /> 
+<img 
+    align="left" 
+    alt="OnShape" 
+    title="OnShape"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/onshape.svg"
+/> 
 <br/>
 <br/>
 
